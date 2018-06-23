@@ -1,0 +1,4 @@
+-------------json数据解析----------------
+1.将json数据存放assets文件夹中
+2.使用JsonToList（）方法将json数据遍历出来
+3.把json数据存放在List中在使用ListView的适配器

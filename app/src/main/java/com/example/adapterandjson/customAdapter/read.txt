@@ -1,0 +1,5 @@
+---------万能适配器----------
+1.新建一个java的数据存储类Bean
+2.将item数据存放在List<Bean>中
+3.在myAdapter中的convert（）方法中设置内容
+4.在Holder中可以扩展控件的内容设置
